@@ -9,8 +9,6 @@ SOTA model implementaion on Cityscapes dataset.
 <html>
 <body>
 
-<h2>Images on Another Server</h2>
-
 <img src="https://images.app.goo.gl/BHKPJxbPvUR9BPdN6" style="width:104px;height:142px;">
 
 </body>
