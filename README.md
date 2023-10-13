@@ -5,14 +5,13 @@ SOTA model implementaion on Cityscapes dataset.
 
 # SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<img src="https://images.app.goo.gl/BHKPJxbPvUR9BPdN6" style="width:104px;height:142px;">
-
-</body>
-</html>
+<!-- ![image](resources/image.png) -->
+<div align="center">
+  <img src="./resources/image.png" height="400">
+</div>
+<p align="center">
+  Figure 1: Performance of SegFormer-B0 to SegFormer-B5.
+</p>
 
 ### [Project page](https://github.com/NVlabs/SegFormer) | [Paper](https://arxiv.org/abs/2105.15203) | [Demo (Youtube)](https://www.youtube.com/watch?v=J0MoRQzZe8U) | [Demo (Bilibili)](https://www.bilibili.com/video/BV1MV41147Ko/) | [Intro Video](https://www.youtube.com/watch?v=nBjXyoltCHU)
 
